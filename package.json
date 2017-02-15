@@ -1,0 +1,16 @@
+{
+  "name": "test_server",
+  "version": "1.0.0",
+  "description": "this is a simple server generate random numbers",
+  "main": "main.js",
+  "dependencies": {
+    "finalhandler": "^0.5.1",
+    "router": "^1.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
